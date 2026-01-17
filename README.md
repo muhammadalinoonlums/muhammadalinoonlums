@@ -59,6 +59,6 @@ I have taken courses in **HCI, Computer Graphics, ML, and Software Development**
 <br />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats-d2ds.vercel.app/api/top-langs/?username=muhammadalinoonlums&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0" width="450" />
+<img src="https://github-readme-stats-d2ds.vercel.app/api/top-langs/?username=muhammadalinoonlums&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0&langs_count=25" width="450" />
 
 </p>
