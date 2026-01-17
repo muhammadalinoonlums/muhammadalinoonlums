@@ -11,19 +11,18 @@ My name is Muhammad Ali Noon and I am looking forward to creating products that 
 <p align="center">
 
 <!-- GitHub All-Time Stats -->
-<img src="https://github-readme-stats-d2ds.vercel.app/api?username=muhammadalinoonlums&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="480" />
+<img src="https://github-readme-stats-d2ds.vercel.app/api?username=muhammadalinoonlums&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=0" width="480" />
 
 <br />
 
 <!-- GitHub Streak Stats -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=muhammadalinoonlums&theme=tokyonight&hide_border=false" width="480" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=muhammadalinoonlums&theme=tokyonight&hide_border=false&cache_seconds=0" width="480" />
 
 <br />
 
 <!-- GitHub Top Languages -->
-<img src="https://github-readme-stats-d2ds.vercel.app/api/top-langs/?username=muhammadalinoonlums&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="480" />
+<img src="https://github-readme-stats-d2ds.vercel.app/api/top-langs/?username=muhammadalinoonlums&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0" width="480" />
 
 </p>
-
 
 
